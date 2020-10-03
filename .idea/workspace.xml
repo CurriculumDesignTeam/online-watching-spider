@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95c58a50-70f6-4e37-a3cf-b94592f37f9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyMovieSpider" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Games\IntelliJ IDEA 2019.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Games\IntelliJ IDEA 2019.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEV5SRaUUTXsG1i8wR0UWntJp3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartSpider">
+    <configuration name="StartSpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spider.StartSpider" />
+      <module name="MyMovieSpider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyMovieSpider" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartSpider" />
+        <item itemvalue="JUnit.test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c58a50-70f6-4e37-a3cf-b94592f37f9c" name="Default Changelist" comment="" />
+      <created>1601472554440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601472554440</updated>
+      <workItem from="1601472564532" duration="7360000" />
+      <workItem from="1601512142666" duration="19923000" />
+      <workItem from="1601605290482" duration="6467000" />
+      <workItem from="1601689021655" duration="1143000" />
+      <workItem from="1601690413167" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="95" key="#Project_Structure" timestamp="1601545301457">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="367" y="95" key="#Project_Structure/0.0.1549.871@0.0.1549.871" timestamp="1601545301457" />
+    <state width="1506" height="416" key="GridCell.Tab.0.bottom" timestamp="1601631129855">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="416" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1601631129855" />
+    <state width="1506" height="416" key="GridCell.Tab.0.center" timestamp="1601631129855">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="416" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1601631129855" />
+    <state width="1506" height="416" key="GridCell.Tab.0.left" timestamp="1601631129855">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="416" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1601631129855" />
+    <state width="1506" height="416" key="GridCell.Tab.0.right" timestamp="1601631129855">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="416" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1601631129855" />
+    <state width="1506" height="344" key="GridCell.Tab.1.bottom" timestamp="1601549076197">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="344" key="GridCell.Tab.1.bottom/0.0.1549.871@0.0.1549.871" timestamp="1601549076197" />
+    <state width="1506" height="344" key="GridCell.Tab.1.center" timestamp="1601549076196">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="344" key="GridCell.Tab.1.center/0.0.1549.871@0.0.1549.871" timestamp="1601549076196" />
+    <state width="1506" height="344" key="GridCell.Tab.1.left" timestamp="1601549076196">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="344" key="GridCell.Tab.1.left/0.0.1549.871@0.0.1549.871" timestamp="1601549076196" />
+    <state width="1506" height="344" key="GridCell.Tab.1.right" timestamp="1601549076196">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="344" key="GridCell.Tab.1.right/0.0.1549.871@0.0.1549.871" timestamp="1601549076196" />
+    <state x="432" y="199" key="run.anything.popup" timestamp="1601630670868">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="432" y="199" key="run.anything.popup/0.0.1549.871@0.0.1549.871" timestamp="1601630670868" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
